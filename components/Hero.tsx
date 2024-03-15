@@ -13,7 +13,7 @@ const Hero = () => {
 
         <p className="hero__subtitle">
           Simplify the process of renting a car with our easy and streamlined
-          booking system.
+          booking systems.
         </p>
 
         <CustomButton
